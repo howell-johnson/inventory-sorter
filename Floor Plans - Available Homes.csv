@@ -1,0 +1,125 @@
+# of Beds,# of Baths,Factory,Single/Double,House,Square Footage,Optional Bed,In Stock,Possible Beds,Link to Home
+2,1,Tru,Single,Bliss,765,0,No,2,https://owntru.com/models/TRS14562AH
+2,2,Tru,Single,Delight,820,0,Yes,2,https://owntru.com/models/TRS14602AH
+3,2,Tru,Single,Elation,902,0,No,3,https://owntru.com/models/TRS14663AH
+3,2,Tru,Single,Glory,1038,0,No,3,https://owntru.com/models/TRS14763BH
+4,2,Tru,Single,Grand,1038,0,No,4,https://owntru.com/models/TRS14764AH
+3,2,Tru,Single,Sensation,1140,0,No,3,https://owntru.com/models/TRS16763EH
+3,2,Tru,Single,Splendor,1140,0,No,3,https://owntru.com/models/TRS16763ZH
+3,2,Tru,Double,Satisfaction,1264,0,No,3,https://owntru.com/models/TRU28483RH
+3,2,Tru,Double,Thrill,1475,0,No,3,https://owntru.com/models/TRU28563RH
+4,2,Tru,Double,Marvel,1475,0,No,4,https://owntru.com/models/TRU28564AH
+3,2,Tru,Double,Marvelous 3,1475,0,No,3,https://owntru.com/models/TRU28563MH
+4,2,Tru,Double,Pride,1791,0,No,4,https://owntru.com/models/TRU28684RH
+5,3,Tru,Double,Triumph,2001,0,No,5,https://owntru.com/models/TRU28765AH
+3,2,Bonham,Single,Dynamic,1080,0,No,3,https://claytonbonham.com/models/35myo16723ah/
+3,2,Bonham,Single,Essence,1140,0,No,3,https://claytonbonham.com/models/35myo16763bh/
+2,2,Bonham,Single,Desire,1140,1,Yes,3,https://claytonbonham.com/models/35myo16763dh/
+3,2,Bonham,Single,Balance,1330,0,No,3,https://claytonbonham.com/models/35myo18763ah/
+3,2,Bonham,Single,Sensation,1330,0,No,3,https://claytonbonham.com/models/35myo18763bh/
+3,2,Bonham,Single,Colossal,1400,1,No,4,https://claytonbonham.com/models/35myo18803fh/
+3,2,Bonham,Single,The Grand,1400,0,No,3,https://claytonbonham.com/models/35myo18803dh/
+2,2,Bonham,Single,Spirit,840,0,Yes,2,https://claytonbonham.com/models/35myo16562ah/
+3,2,Bonham,Single,Intuition,990,0,Yes,3,https://claytonbonham.com/models/35myo16663ah/
+2,2,Epic,Single,Tuscany,1020,0,Yes,2,https://claytonepicadventure.com/models/43cea16682ah/
+3,2,Epic,Single,Zion,1140,0,No,3,https://claytonepicadventure.com/models/43cea16763gh/
+3,2,Epic,Single,Sydney,1140,0,Yes,3,https://claytonepicadventure.com/models/43cea16763ah/
+3,2,Epic,Double,Rio,1568,0,Yes,3,https://claytonepicadventure.com/models/43cea28563ah/
+4,3,Epic,Double,Rainier,2001,1,No,5,https://claytonepicadventure.com/models/43cea28764ah/
+4,2,Epic,Double,Everest,2432,0,Yes,4,https://claytonepicadventure.com/models/43cea32764ah/
+2,2,Epic,Single,Lewis,825,0,No,2,https://claytonepicjourney.com/models/43cej16562ah/
+3,2,Epic,Single,Clark,990,0,No,3,https://claytonepicjourney.com/models/43cej16663ah/
+3,2,Epic,Single,Magellan,1080,0,No,3,https://claytonepicjourney.com/models/43cej16723ah/
+3,2,Epic,Double,Desoto,1264,0,No,3,https://claytonepicjourney.com/models/43cej28483ah/
+3,2,Epic,Double,Cook,1369,0,No,3,https://claytonepicjourney.com/models/43cej28523ah/
+4,2,Epic,Double,Boone,1475,0,No,4,https://claytonepicjourney.com/models/43cej28564ah/
+2,2,Waco 1,Single,Anni60,900,0,No,2,https://claytonwaco1.com/details/31ANN16602AH
+2,2,Waco 1,Single,Anni68,1020,1,No,3,https://claytonwaco1.com/details/31ANN16682AH
+2,2,Waco 1,Single,Farmhouse68,1020,0,No,2,https://claytonwaco1.com/details/31ANN16682FH
+3,2,Waco 1,Single,Anni76,1140,0,Yes,3,https://claytonwaco1.com/details/31ANN16763AH
+3,2,Waco 1,Single,Islander,1140,0,No,3,https://claytonwaco1.com/details/31ANN16763IH
+3,2,Waco 1,Single,Splash,1140,0,Yes,3,https://claytonwaco1.com/details/31ANN16763SH
+3,2,Waco 1,Single,Farmhouse76,1140,0,Yes,3,https://claytonwaco1.com/details/31ANN16763FH
+2,2,Waco 1,Single,Select60,900,0,No,2,https://claytonwaco1.com/details/31SEL16602AH
+2,2,Waco 1,Single,Select72,1080,1,Yes,3,https://claytonwaco1.com/details/31SEL16722AH
+3,2,Southern,Double,S. Farmhouse,1585,1,Yes,4,https://sehomessouthern.com/models/41vis28583ah/?base=/models/
+3,2,Southern,Double,The Morris,1531,1,Yes,4,https://sehomessouthern.com/models/41vis28563ah/?tab=photos&base=/models/
+3,2,Southern,Double,The Shoreline,1804,1,No,4,https://sehomessouthern.com/models/41vis28663ah/?tab=photos&base=/models/
+4,2,Southern,Double,The Bayside,2040,1,Yes,5,https://sehomessouthern.com/models/41vis32684ah/?tab=photos&base=/models/
+2,2,Southern,Single,The Lodge,900,0,No,2,https://sehomessouthern.com/models/41vis16602bh/?tab=photos&base=/models/
+3,2,Waco 2,Double,The Armani,1680,0,Yes,3,https://claytonwaco2.com/model/32DSN32563AH
+3,2,Waco 2,Double,The Versace,1980,1,No,4,https://claytonwaco2.com/model/32DSN32663AH
+4,3,Waco 2,Double,The Louis,2160,1,No,5,https://claytonwaco2.com/model/32DSN32724AH
+4,3,Waco 2,Double,The Chanel,2127,0,No,4,https://claytonwaco2.com/model/32DSN32744AH
+1,1,Tempo,Single,Imagine,496,0,No,1,https://claytoneasttempo.com/models/tem14401ah/
+2,1,Tempo,Single,Satisfaction,605,0,No,2,https://claytoneasttempo.com/models/tem14482ah/
+1,1,Tempo,Single,Yesterday,625,0,No,1,https://claytoneasttempo.com/models/tem16441ah/
+2,1,Tempo,Single,Layla,738,0,No,2,https://claytoneasttempo.com/models/tem16522ah/
+2,2,Tempo,Single,Respect,756,0,No,2,https://claytoneasttempo.com/models/tem14602ah/
+2,2,Tempo,Single,Still the One,795,0,No,2,https://claytoneasttempo.com/models/tem16562ah/
+3,2,Tempo,Single,Good Vibrations,832,0,No,3,https://claytoneasttempo.com/models/tem14663ah/
+2,2,Tempo,Single,Born to Run,900,0,No,2,https://claytoneasttempo.com/models/tem16602ah/
+3,2,Tempo,Single,Rhythm Nation,990,0,No,3,https://claytoneasttempo.com/models/tem16663ah/
+2,2,Tempo,Double,Rising Sun,1042,0,No,2,https://claytoneasttempo.com/models/tem24442ah/
+3,2,Tempo,Double,Sweet Dreams,1054,0,No,3,https://claytoneasttempo.com/models/tem28403ah/
+3,2,Tempo,Double,Walk the Line,1080,0,No,3,https://claytoneasttempo.com/models/tem16723bh/
+3,2,Tempo,Double,Here Comes the Sun,1136,0,No,3,https://claytoneasttempo.com/models/tem24483ah/
+3,2,Tempo,Double,Solsbury Hill,1140,0,No,3,https://claytoneasttempo.com/models/tem16763ah/
+3,2,Tempo,Double,Beautiful Morning,1173,0,No,3,https://claytoneasttempo.com/models/tem28443ah/
+3,2,Tempo,Double,Three Little Birds,1230,0,No,3,https://claytoneasttempo.com/models/tem24523ah/
+3,2,Tempo,Double,Under Pressure,1264,0,No,3,https://claytoneasttempo.com/models/tem28483ah/
+3,2,Tempo,Double,My Girl,1326,0,No,3,https://claytoneasttempo.com/models/tem24563ah/
+3,2,Tempo,Double,Johnny B Goode,1385,0,No,3,https://claytoneasttempo.com/models/tem28523bh/
+3,2,Tempo,Double,Free Bird,1385,0,No,3,https://claytoneasttempo.com/models/tem28523ah-2/
+3,2,Tempo,Double,Stayin' Alive,1474,0,No,3,https://claytoneasttempo.com/models/tem28563bh/
+3,2,Tempo,Double,Let it Be,1493,0,No,3,https://claytoneasttempo.com/models/tem28563ah/
+4,2,Tempo,Double,Lovely Day,1580,0,No,4,https://claytoneasttempo.com/models/tem28604ch/
+3,2,Tempo,Double,Rocket Man,1790,0,No,3,https://claytoneasttempo.com/models/tem28663ah/
+5,2,Tempo,Double,Hey Jude,1920,0,No,5,https://claytoneasttempo.com/models/tem28725ah-2/
+5,2,Tempo,Double,Superfly,2001,0,No,5,https://claytoneasttempo.com/models/tem28765ah/
+2,2,Nxt,Single,Trinity 60,900,0,No,2,https://nxtathens.com/models/52nxt16602ah/
+3,2,Nxt,Single,Trinity 76,1140,0,No,3,https://nxtathens.com/models/52nxt16763ah/
+3,2,Nxt,Single,Annie,1140,0,No,3,https://nxtathens.com/models/52nxt16763ch/
+3,2,Nxt,Double,Wilder,1369,0,No,3,https://nxtathens.com/models/52nxt28523ah/
+3,2,Nxt,Double,Lizzie,1474,0,No,3,https://nxtathens.com/models/52nxt28563ch/
+3,2,Nxt,Double,Loralei,1580,1,No,4,https://nxtathens.com/models/52nxt28603ch/
+3,2,Nxt,Double,Farm 3 Flex,1580,0,No,3,https://nxtathens.com/models/52frm28603ah/
+3,2,Nxt,Double,Emilie Elite,1680,0,No,3,https://nxtathens.com/models/52nxi32563ah/
+4,2,Nxt,Double,Angelina,1790,0,No,4,https://nxtathens.com/models/52nxt28684ch/
+3,3,Nxt,Double,Everett,1790,1,No,4,https://nxtathens.com/models/52nxt28684ah/
+3,2,Nxt,Double,Farm 3 Flex Elite,1800,0,No,3,https://nxtathens.com/models/52frm32603ah/
+3,2,Nxt,Double,Farm 3 Flex Den,1908,0,No,3,https://nxtathens.com/models/52frm28723ah/
+4,3,Nxt,Double,Farm 4 Flex,1908,1,No,5,https://nxtathens.com/models/52frm28724ah/
+4,2,Nxt,Double,Tinsley,2001,1,No,5,https://nxtathens.com/models/52nxt28764ch/
+4,2,Nxt,Double,Emmeline,2001,0,No,4,https://nxtathens.com/models/52frm28764ah/
+3,3,Nxt,Double,Everett Elite,2040,1,No,4,https://nxtathens.com/models/52nxt32684ah/
+4,3,Nxt,Double,Farm 4 Flex Elite,2160,1,No,5,https://nxtathens.com/models/52frm32724ah/
+3,2,Norris,Double,Freedom 52 ,1553,0,Yes,3,https://cbsfreedom.com/models/27fre32523ah/
+4,2,Norris,Double,Freedom XL,2272,0,No,4,https://cbsfreedom.com/models/27fre32764ah/
+3,2,Norris,Double,Freedom Farm House,1788,0,No,3,https://cbsfreedom.com/models/27fre32603ah/
+4,2.5,Norris,Double,Freedom Farm House 4,2088,0,No,4,https://cbsfreedom.com/models/27fre32704ah/
+3,2,Norris,Double,Freedom Soho,1584,0,No,3,https://cbsfreedom.com/models/27fre28603ah/
+4,2,Norris,Double,Freedom Grand,1853,0,No,4,https://cbsfreedom.com/models/27fre32624ah/
+3,2,Norris,Double,Freedom Breeze,1584,0,No,3,https://cbsfreedom.com/models/27fre28603bh/
+3,2,Fleetwood,Double,K2,2248,1,No,4,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-k2-32764p
+4,2,Fleetwood,Double,X Model,2040,0,No,4,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-x-model-edge-32684x
+4,2,Fleetwood,Double,Entertainer,2026,0,No,4,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-entertainer-28764e
+3,2,Fleetwood,Double,Big Beam House,1980,0,No,3,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-big-beam-house-edge-32663x
+4,2,Fleetwood,Double,Excalibur,1920,0,No,4,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-excalibur-edge-32644x
+3,2,Fleetwood,Double,Beam House,1800,0,No,3,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-beam-house-edge-32603x
+3,2,Fleetwood,Double,Warrior,1680,0,No,3,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-warrior-edge-32563f
+3,2,Fleetwood,Double,Outback,1625,0,No,3,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-outback-28663p
+3,2,Fleetwood,Double,Yukon,1600,0,No,3,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-yukon-28603y
+3,2,Fleetwood,Double,Elevation,1560,0,No,3,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-elevation-32523d
+3,2,Fleetwood,Double,Champ,1493,0,No,3,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-champ-28563t
+3,2,Fleetwood,Double,Magnum,1386,0,No,3,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-magnum-28523m
+3,2,Fleetwood,Double,Bella,1280,0,No,3,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-bella-28483h
+3,2,Fleetwood,Double,Uproar,1280,0,No,3,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-uproar-28483u
+3,2,Fleetwood,Single,Pioneer,1178,0,No,3,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-pioneer-edge-16763k
+3,2,Fleetwood,Single,Wildcat,1178,0,No,3,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-wildcat-16763d
+3,2,Fleetwood,Double,Express,1173,0,No,3,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-express-28443w
+3,2,Fleetwood,Single,Twin Peaks,1128,0,No,3,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-twin-peaks-16763p_
+3,2,Fleetwood,Single,Ascension,1116,0,No,3,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-ascension-16723h
+3,2,Fleetwood,Single,Ultra,1023,0,No,3,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-ultra-16663u
+2,2,Fleetwood,Single,Deuce,930,0,No,2,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-deuce-16602d
+2,1,Fleetwood,Single,Urban,713,0,No,2,https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-urban-16462u
