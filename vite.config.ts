@@ -5,7 +5,7 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: process.env.NODE_ENV === "production" ? "/kaden-inventory/" : "/",
+  base: process.env.NODE_ENV === "production" ? "/inventory-sorter/" : "/",
   plugins: [react(), parserPlugin()],
   resolve: {
     alias: {
