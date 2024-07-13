@@ -1,7 +1,12 @@
+import { Header } from "./components/Header";
+import { ThemeProvider } from "./components/ThemeProvider";
+
 export default function App() {
   return (
-    <>
-      <h1 className="text-7xl">Hello world!</h1>
-    </>
+    <ThemeProvider defaultTheme="system" storageKey="theme">
+      <div className="flex min-h-screen flex-col bg-background dark:text-white">
+        <Header />
+      </div>
+    </ThemeProvider>
   );
 }
