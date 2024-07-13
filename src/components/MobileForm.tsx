@@ -8,14 +8,25 @@ import {
 import { Label } from "@radix-ui/react-label";
 import { Button } from "./ui/button";
 
-export function MobileForm() {
+type MobileFormProps = {
+  filterFunction: (beds: string, baths: string, sqft: string) => void;
+};
+
+export function MobileForm({ filterFunction }: MobileFormProps) {
   function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
     const formData = new FormData(event.currentTarget);
     const beds = formData.get("beds");
     const baths = formData.get("baths");
     const sqft = formData.get("sqft");
-    console.log({ beds, baths, sqft });
+    if (
+      typeof beds !== "string" ||
+      typeof baths !== "string" ||
+      typeof sqft !== "string"
+    ) {
+      return;
+    }
+    filterFunction(beds, baths, sqft);
   }
   return (
     <form onSubmit={handleSubmit} className="mt-2 border-b px-4 pb-4">
