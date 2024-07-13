@@ -1,8 +1,9 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
+import { parserPlugin } from "./tools/parser";
 
 // https://vitejs.dev/config/
 export default defineConfig({
   base: process.env.NODE_ENV === "production" ? "/kaden-inventory/" : "/",
-  plugins: [react()],
+  plugins: [react(), parserPlugin()],
 });
