@@ -27,6 +27,13 @@ export default function App() {
         description: "No homes found with the selected filters",
       });
     }
+    if (filteredHomes.length > 0) {
+      toast({
+        className: "w-fit ml-auto",
+        title: "Search results",
+        description: "Found " + filteredHomes.length + " homes",
+      });
+    }
   }
 
   return (
