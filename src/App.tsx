@@ -1,7 +1,7 @@
 import { ThemeProvider } from "./components/ThemeProvider";
 import { Toaster } from "./components/ui/toaster";
 import { Header } from "./components/Header";
-import { MobileForm } from "./components/MobileForm";
+import { FilterForm } from "./components/FilterForm";
 import { Output } from "./components/Output";
 import data from "./data/homes.json";
 import { useState } from "react";
@@ -40,7 +40,7 @@ export default function App() {
     <ThemeProvider defaultTheme="system" storageKey="theme">
       <div className="flex min-h-screen flex-col bg-background dark:text-white">
         <Header />
-        <MobileForm filterFunction={filterHomes} />
+        <FilterForm filterFunction={filterHomes} />
         <Output data={homes} />
       </div>
       <Toaster />
