@@ -1848,20 +1848,6 @@
         "quote": 0
     },
     {
-        "house": "Uber",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 961,
-        "factory": "Fleetwood",
-        "boxSize": "16x62",
-        "singleDouble": "Single",
-        "optionalBed": 0,
-        "possibleBeds": 2,
-        "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-uber-extreme-16622u",
-        "quote": 0
-    },
-    {
         "house": "Deuce",
         "beds": 2,
         "baths": 2,
