@@ -3,7 +3,7 @@ import { Toaster } from "./components/ui/toaster";
 import { Header } from "./components/Header";
 import { FilterForm } from "./components/FilterForm";
 import { Output } from "./components/Output";
-import data from "./data/homes.json";
+import data from "./data/new_homes.json";
 import { useState } from "react";
 import { useToast } from "./components/ui/use-toast";
 
