@@ -11,12 +11,12 @@ export default function App() {
   const [homes, setHomes] = useState(data);
   const { toast } = useToast();
 
-  function filterHomes(beds: number, baths: number, sqft: number) {
+  function filterHomes(beds: string, baths: string, sqft: string) {
     const filteredHomes = data.filter((home) => {
       return (
         (home.beds === beds || beds === "Any") &&
         (home.baths === baths || baths === "Any") &&
-        (parseInt(home.sqft) >= sqft || sqft === "Any")
+        (parseInt(home.sqft) >= parseInt(sqft) || sqft === "Any")
       );
     });
     setHomes(filteredHomes);
