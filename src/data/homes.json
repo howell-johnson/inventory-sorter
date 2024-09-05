@@ -783,7 +783,7 @@
     "beds": "3",
     "baths": "2",
     "factory": "Tempo",
-    "singleDouble": "Double",
+    "singleDouble": "Single",
     "house": "Solsbury Hill",
     "sqft": "1140",
     "optionalBed": "0",
@@ -1486,5 +1486,8 @@
     "inStock": "No",
     "possibleBeds": "2",
     "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-urban-16462u"
+  },
+  {
+    "beds": ""
   }
 ]
