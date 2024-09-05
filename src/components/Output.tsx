@@ -8,16 +8,17 @@ import {
 } from "@/components/ui/table";
 
 type HomeData = {
-  beds: string;
-  baths: string;
+  beds: number;
+  baths: number;
   factory: string;
   singleDouble: string;
   house: string;
-  sqft: string;
-  optionalBed: string;
+  sqft: number;
+  optionalBed: number;
   inStock: string;
-  possibleBeds: string;
+  possibleBeds: number;
   link: string;
+  quote: number;
 };
 
 type OutputProps = {

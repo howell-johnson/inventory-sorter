@@ -10,13 +10,13 @@ import { Button } from "./ui/button";
 import { useState } from "react";
 
 type FilterFormProps = {
-  filterFunction: (beds: string, baths: string, sqft: string) => void;
+  filterFunction: (beds: number, baths: number, sqft: number) => void;
 };
 
 export function FilterForm({ filterFunction }: FilterFormProps) {
-  const [beds, setBeds] = useState("Any");
-  const [baths, setBaths] = useState("Any");
-  const [sqft, setSqft] = useState("Any");
+  const [beds, setBeds] = useState(0);
+  const [baths, setBaths] = useState(0);
+  const [sqft, setSqft] = useState(0);
 
   function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
@@ -24,10 +24,10 @@ export function FilterForm({ filterFunction }: FilterFormProps) {
   }
 
   function handleReset() {
-    setBeds("Any");
-    setBaths("Any");
-    setSqft("Any");
-    filterFunction("Any", "Any", "Any");
+    setBeds(0);
+    setBaths(0);
+    setSqft(0);
+    filterFunction(0, 0, 0);
   }
 
   return (
@@ -39,16 +39,20 @@ export function FilterForm({ filterFunction }: FilterFormProps) {
           </Label>
           <Select
             name="beds"
-            value={beds}
+            value={beds.toString() || "Any"}
             onValueChange={(value) => {
-              setBeds(value);
+              const parsedValue = parseInt(value);
+              if (isNaN(parsedValue)) {
+                return;
+              }
+              setBeds(parsedValue);
             }}
           >
             <SelectTrigger className="p-2 pr-1">
               <SelectValue />
             </SelectTrigger>
             <SelectContent>
-              <SelectItem value="Any">Any</SelectItem>
+              <SelectItem value="0">Any</SelectItem>
               <SelectItem value="1">1</SelectItem>
               <SelectItem value="2">2</SelectItem>
               <SelectItem value="3">3</SelectItem>
@@ -63,16 +67,20 @@ export function FilterForm({ filterFunction }: FilterFormProps) {
           </Label>
           <Select
             name="baths"
-            value={baths}
+            value={baths.toString() || "Any"}
             onValueChange={(value) => {
-              setBaths(value);
+              const parsedValue = parseInt(value);
+              if (isNaN(parsedValue)) {
+                return;
+              }
+              setBaths(parsedValue);
             }}
           >
             <SelectTrigger className="p-2 pr-1">
               <SelectValue />
             </SelectTrigger>
             <SelectContent>
-              <SelectItem value="Any">Any</SelectItem>
+              <SelectItem value="0">Any</SelectItem>
               <SelectItem value="1">1</SelectItem>
               <SelectItem value="2">2</SelectItem>
               <SelectItem value="3">3</SelectItem>
@@ -85,16 +93,20 @@ export function FilterForm({ filterFunction }: FilterFormProps) {
           </Label>
           <Select
             name="sqft"
-            value={sqft}
+            value={sqft.toString() || "Any"}
             onValueChange={(value) => {
-              setSqft(value);
+              const parsedValue = parseInt(value);
+              if (isNaN(parsedValue)) {
+                return;
+              }
+              setSqft(parsedValue);
             }}
           >
             <SelectTrigger className="p-2 pr-1">
               <SelectValue />
             </SelectTrigger>
             <SelectContent>
-              <SelectItem value="Any">Any</SelectItem>
+              <SelectItem value="0">Any</SelectItem>
               <SelectItem value="800">800+</SelectItem>
               <SelectItem value="1000">1000+</SelectItem>
               <SelectItem value="1200">1200+</SelectItem>
