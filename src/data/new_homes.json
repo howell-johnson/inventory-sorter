@@ -588,62 +588,6 @@
         "quote": 0
     },
     {
-        "house": "Select 60",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 900,
-        "factory": "Waco 1",
-        "boxSize": "16x60",
-        "singleDouble": "Single",
-        "optionalBed": 0,
-        "possibleBeds": 2,
-        "inStock": "No",
-        "link": "https://claytonwaco1.com/details/31SEL16602AH/",
-        "quote": 0
-    },
-    {
-        "house": "Select 72",
-        "beds": 2,
-        "baths": 2,
-        "sqft": 1080,
-        "factory": "Waco 1",
-        "boxSize": "16x72",
-        "singleDouble": "Single",
-        "optionalBed": 0,
-        "possibleBeds": 2,
-        "inStock": "Yes",
-        "link": "https://claytonwaco1.com/details/31SEL16722AH/",
-        "quote": 0
-    },
-    {
-        "house": "Edge 72B",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1080,
-        "factory": "SE Homes",
-        "boxSize": "16x72",
-        "singleDouble": "Single",
-        "optionalBed": 0,
-        "possibleBeds": 3,
-        "inStock": "No",
-        "link": "https://sehomessouthern.com/models/41edg16723bh/?base=/models/",
-        "quote": 0
-    },
-    {
-        "house": "Edge 72A",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1080,
-        "factory": "SE Homes",
-        "boxSize": "16x72",
-        "singleDouble": "Single",
-        "optionalBed": 0,
-        "possibleBeds": 3,
-        "inStock": "No",
-        "link": "https://sehomessouthern.com/models/41edg16723ah/?base=/models/",
-        "quote": 0
-    },
-    {
         "house": "The Ranch House",
         "beds": 3,
         "baths": 2,
@@ -714,20 +658,6 @@
         "quote": 0
     },
     {
-        "house": "The Edge",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1531,
-        "factory": "SE Homes",
-        "boxSize": "28x56",
-        "singleDouble": "Double",
-        "optionalBed": 0,
-        "possibleBeds": 3,
-        "inStock": "No",
-        "link": "https://sehomessouthern.com/models/41edg28563ah/?base=/models/",
-        "quote": 0
-    },
-    {
         "house": "The Morris",
         "beds": 3,
         "baths": 2,
@@ -781,20 +711,6 @@
         "possibleBeds": 5,
         "inStock": "Yes",
         "link": "https://sehomessouthern.com/models/41vis32684ah/?base=/models/",
-        "quote": 0
-    },
-    {
-        "house": "The Riverway",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2340,
-        "factory": "SE Homes",
-        "boxSize": "32x78",
-        "singleDouble": "Double",
-        "optionalBed": 0,
-        "possibleBeds": 4,
-        "inStock": "No",
-        "link": "https://sehomessouthern.com/models/41vis32784bh/?base=/models/",
         "quote": 0
     },
     {
@@ -1302,20 +1218,6 @@
         "quote": 0
     },
     {
-        "house": "Loralei",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1580,
-        "factory": "NXT Athens",
-        "boxSize": "28x60",
-        "singleDouble": "Double",
-        "optionalBed": 1,
-        "possibleBeds": 4,
-        "inStock": "No",
-        "link": "https://nxtathens.com/models/52nxt28603ch/",
-        "quote": 0
-    },
-    {
         "house": "Farm 3 Flex",
         "beds": 3,
         "baths": 2,
@@ -1327,20 +1229,6 @@
         "possibleBeds": 3,
         "inStock": "No",
         "link": "https://nxtathens.com/models/52frm28603ah/",
-        "quote": 0
-    },
-    {
-        "house": "Angelina",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 1790,
-        "factory": "NXT Athens",
-        "boxSize": "28x68",
-        "singleDouble": "Double",
-        "optionalBed": 0,
-        "possibleBeds": 4,
-        "inStock": "No",
-        "link": "https://nxtathens.com/models/52nxt28684ch/",
         "quote": 0
     },
     {
@@ -1411,20 +1299,6 @@
         "possibleBeds": 5,
         "inStock": "No",
         "link": "https://nxtathens.com/models/52nxt28764ch/",
-        "quote": 0
-    },
-    {
-        "house": "Emmeline",
-        "beds": 4,
-        "baths": 2,
-        "sqft": 2001,
-        "factory": "NXT Athens",
-        "boxSize": "28x76",
-        "singleDouble": "Double",
-        "optionalBed": 0,
-        "possibleBeds": 4,
-        "inStock": "No",
-        "link": "https://nxtathens.com/models/52frm28764ah/",
         "quote": 0
     },
     {
@@ -1666,20 +1540,6 @@
         "quote": 0
     },
     {
-        "house": "Yukon",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1600,
-        "factory": "Fleetwood",
-        "boxSize": "28x60",
-        "singleDouble": "Double",
-        "optionalBed": 0,
-        "possibleBeds": 3,
-        "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-yukon-28603y",
-        "quote": 0
-    },
-    {
         "house": "Elevation",
         "beds": 3,
         "baths": 2,
@@ -1705,20 +1565,6 @@
         "possibleBeds": 3,
         "inStock": "No",
         "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-champ-28563t",
-        "quote": 0
-    },
-    {
-        "house": "Magnum",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1386,
-        "factory": "Fleetwood",
-        "boxSize": "28x52",
-        "singleDouble": "Double",
-        "optionalBed": 0,
-        "possibleBeds": 3,
-        "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-magnum-28523m",
         "quote": 0
     },
     {
