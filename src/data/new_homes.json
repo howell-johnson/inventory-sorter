@@ -126,7 +126,7 @@
         "quote": 0
     },
     {
-        "house": "Marvel",
+        "house": "Marvel 4",
         "beds": 4,
         "baths": 2,
         "sqft": 1475,
@@ -192,7 +192,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonbonham.com/models/35myo16723ah/",
+        "link": "https://claytonmiyo.com/models/35myo16723ah/",
         "quote": 0
     },
     {
@@ -206,7 +206,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonbonham.com/models/35myo16763bh/",
+        "link": "https://claytonmiyo.com/models/35myo16763bh/",
         "quote": 0
     },
     {
@@ -220,7 +220,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "Yes",
-        "link": "https://claytonbonham.com/models/35myo16763dh/",
+        "link": "https://claytonmiyo.com/models/35myo16763dh/",
         "quote": 0
     },
     {
@@ -234,7 +234,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonbonham.com/models/35myo18763ah/",
+        "link": "https://claytonmiyo.com/models/35myo18763ah/",
         "quote": 0
     },
     {
@@ -248,7 +248,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonbonham.com/models/35myo18763bh/",
+        "link": "https://claytonmiyo.com/models/35myo18763bh/",
         "quote": 0
     },
     {
@@ -262,11 +262,11 @@
         "optionalBed": 0,
         "possibleBeds": 4,
         "inStock": "No",
-        "link": "https://claytonbonham.com/models/35myo18803fh/",
+        "link": "https://claytonmiyo.com/models/35myo18803fh/",
         "quote": 0
     },
     {
-        "house": "The Grand",
+        "house": "Grand",
         "beds": 3,
         "baths": 2,
         "sqft": 1400,
@@ -276,7 +276,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonbonham.com/models/35myo18803dh/",
+        "link": "https://claytonmiyo.com/models/35myo18803dh/",
         "quote": 0
     },
     {
@@ -290,7 +290,7 @@
         "optionalBed": 0,
         "possibleBeds": 2,
         "inStock": "Yes",
-        "link": "https://claytonbonham.com/models/35myo16562ah/",
+        "link": "https://claytonmiyo.com/models/35myo16562ah/",
         "quote": 0
     },
     {
@@ -304,25 +304,95 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "Yes",
-        "link": "https://claytonbonham.com/models/35myo16663ah/",
+        "link": "https://claytonmiyo.com/models/35myo16663ah/",
         "quote": 0
     },
     {
-        "house": "The Empower",
+        "house": "Glimpse",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1422,
+        "factory": "Southern",
+        "boxSize": "28x52",
+        "singleDouble": "Double",
+        "optionalBed": 0,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://claytonmiyo.com/models/41myo28523ah/",
+        "quote": 0
+    },
+    {
+        "house": "Reveal",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1531,
+        "factory": "Southern",
+        "boxSize": "28x56",
+        "singleDouble": "Double",
+        "optionalBed": 0,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://claytonmiyo.com/models/41myo28563ah/",
+        "quote": 0
+    },
+    {
+        "house": "Impact",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1739,
+        "factory": "Southern",
+        "boxSize": "28x64",
+        "singleDouble": "Double",
+        "optionalBed": 0,
+        "possibleBeds": 4,
+        "inStock": "Yes",
+        "link": "https://claytonmiyo.com/models/41myo28644ah/",
+        "quote": 0
+    },
+    {
+        "house": "Occasion",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1968,
+        "factory": "Southern",
+        "boxSize": "28x72",
+        "singleDouble": "Double",
+        "optionalBed": 0,
+        "possibleBeds": 4,
+        "inStock": "No",
+        "link": "https://claytonmiyo.com/models/41myo28724ah/",
+        "quote": 0
+    },
+    {
+        "house": "Ambition",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2077,
+        "factory": "Southern",
+        "boxSize": "28x76",
+        "singleDouble": "Double",
+        "optionalBed": 2,
+        "possibleBeds": 5,
+        "inStock": "No",
+        "link": "https://claytonmiyo.com/models/41myo28764ah/",
+        "quote": 0
+    },
+    {
+        "house": "Empower",
         "beds": 4,
         "baths": 2,
         "sqft": 2040,
         "factory": "Bonham",
         "boxSize": "32x68",
         "singleDouble": "Double",
-        "optionalBed": 0,
+        "optionalBed": 1,
         "possibleBeds": 5,
         "inStock": "No",
-        "link": "https://claytonbonham.com/models/35myo32684ah/",
+        "link": "https://claytonmiyo.com/models/35myo32684ah/",
         "quote": 0
     },
     {
-        "house": "The Discover",
+        "house": "Discover",
         "beds": 3,
         "baths": 2,
         "sqft": 1680,
@@ -332,7 +402,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonbonham.com/models/35myo32563ah/",
+        "link": "https://claytonmiyo.com/models/35myo32563ah/",
         "quote": 0
     },
     {
