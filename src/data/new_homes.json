@@ -1274,7 +1274,7 @@
         "quote": 0
     },
     {
-        "house": "Trinity 76",
+        "house": "Libby",
         "beds": 3,
         "baths": 2,
         "sqft": 1140,
@@ -1284,7 +1284,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://nxtathens.com/models/52nxt16763ah/",
+        "link": "https://nxtathens.com/models/52nxt16763bh/",
         "quote": 0
     },
     {
@@ -1298,7 +1298,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://nxtathens.com/models/52nxt16763ch/",
+        "link": "https://nxtathens.com/models/52nxt16763dh/",
         "quote": 0
     },
     {
@@ -1313,6 +1313,20 @@
         "possibleBeds": 3,
         "inStock": "No",
         "link": "https://nxtathens.com/models/52nxt28523ah/",
+        "quote": 0
+    },
+    {
+        "house": "Sawyer Elite",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1440,
+        "factory": "NXT Athens",
+        "boxSize": "32x48",
+        "singleDouble": "Double",
+        "optionalBed": 0,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://nxtathens.com/models/52frm32483ah/",
         "quote": 0
     },
     {
@@ -1378,6 +1392,20 @@
         "sqft": 1790,
         "factory": "NXT Athens",
         "boxSize": "28x68",
+        "singleDouble": "Double",
+        "optionalBed": 1,
+        "possibleBeds": 4,
+        "inStock": "No",
+        "link": "https://nxtathens.com/models/52nxt28684ah/",
+        "quote": 0
+    },
+    {
+        "house": "Isabella Elite",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1800,
+        "factory": "NXT Athens",
+        "boxSize": "32x60",
         "singleDouble": "Double",
         "optionalBed": 1,
         "possibleBeds": 4,
@@ -1467,6 +1495,20 @@
         "possibleBeds": 5,
         "inStock": "No",
         "link": "https://nxtathens.com/models/52frm32724ah/",
+        "quote": 0
+    },
+    {
+        "house": "Farm 3 Flex Elite Den",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 2160,
+        "factory": "NXT Athens",
+        "boxSize": "32x72",
+        "singleDouble": "Double",
+        "optionalBed": 0,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://nxtathens.com/models/52frm32723ah/",
         "quote": 0
     },
     {
