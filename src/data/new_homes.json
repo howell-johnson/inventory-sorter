@@ -588,6 +588,20 @@
         "quote": 0
     },
     {
+        "house": "Crockett",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1904,
+        "factory": "Epic Journey",
+        "boxSize": "28x68",
+        "singleDouble": "Double",
+        "optionalBed": 1,
+        "possibleBeds": 4,
+        "inStock": "No",
+        "link": "https://claytonepicjourney.com/models/43cej28683ah/",
+        "quote": 0
+    },
+    {
         "house": "Anniversary 60",
         "beds": 2,
         "baths": 2,
