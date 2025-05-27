@@ -1288,6 +1288,20 @@
         "quote": 0
     },
     {
+        "house": "Lexi",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1140,
+        "factory": "NXT Athens",
+        "boxSize": "16x76",
+        "singleDouble": "Single",
+        "optionalBed": 0,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://nxtathens.com/models/52nxt16763dh/",
+        "quote": 0
+    },
+    {
         "house": "Annie",
         "beds": 3,
         "baths": 2,
