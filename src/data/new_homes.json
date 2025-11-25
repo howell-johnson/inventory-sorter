@@ -182,17 +182,45 @@
         "quote": 0
     },
     {
+        "house": "Atlas",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 840,
+        "factory": "Horizon",
+        "boxSize": "16x56",
+        "singleDouble": "Single",
+        "optionalBed": 0,
+        "possibleBeds": 2,
+        "inStock": "No",
+        "link": "https://claytonhorizon.com/models/37hzr16602ah/",
+        "quote": 0
+    },
+    {
         "house": "Beacon",
-        "beds": 3,
+        "beds": 2,
         "baths": 2,
         "sqft": 990,
         "factory": "Horizon",
         "boxSize": "16x66",
         "singleDouble": "Single",
-        "optionalBed": 0,
+        "optionalBed": 1,
         "possibleBeds": 3,
         "inStock": "No",
         "link": "https://claytonhorizon.com/models/37hzn16663ah/",
+        "quote": 0
+    },
+    {
+        "house": "Oasis",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1080,
+        "factory": "Horizon",
+        "boxSize": "16x72",
+        "singleDouble": "Single",
+        "optionalBed": 0,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://claytonhorizon.com/models/37hzr16723ah/",
         "quote": 0
     },
     {
@@ -238,6 +266,20 @@
         "quote": 0
     },
     {
+        "house": "Element",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1530,
+        "factory": "Horizon",
+        "boxSize": "28x56",
+        "singleDouble": "Double",
+        "optionalBed": 0,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://claytonhorizon.com/models/37hzr28563ah/",
+        "quote": 0
+    },
+    {
         "house": "Haven",
         "beds": 3,
         "baths": 2,
@@ -249,6 +291,20 @@
         "possibleBeds": 4,
         "inStock": "No",
         "link": "https://claytonhorizon.com/models/37hzn28603ah/",
+        "quote": 0
+    },
+    {
+        "house": "Eclipse",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1859,
+        "factory": "Horizon",
+        "boxSize": "28x68",
+        "singleDouble": "Double",
+        "optionalBed": 1,
+        "possibleBeds": 5,
+        "inStock": "No",
+        "link": "https://claytonhorizon.com/models/37hzr28684ah/",
         "quote": 0
     },
     {
@@ -2382,3 +2438,4 @@
 
 ]
     
+
