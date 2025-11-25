@@ -1928,7 +1928,7 @@
         "optionalBed": 0,
         "possibleBeds": 4,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-k2-32764p",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-k2-32764p_",
         "quote": 0
     },
     {
@@ -1942,7 +1942,7 @@
         "optionalBed": 0,
         "possibleBeds": 4,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-x-model-edge-32684x",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-x-model-32684x-fi",
         "quote": 0
     },
     {
@@ -1956,7 +1956,7 @@
         "optionalBed": 0,
         "possibleBeds": 4,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-entertainer-28764e",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-entertainer-28764e-fw",
         "quote": 0
     },
     {
@@ -1970,7 +1970,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-big-beam-house-edge-32663x",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-big-beam-house-32663x-fi",
         "quote": 0
     },
     {
@@ -1984,7 +1984,21 @@
         "optionalBed": 0,
         "possibleBeds": 4,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-excalibur-edge-32644x",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-excalibur-32644x-fi",
+        "quote": 0
+    },
+    {
+        "house": "Generation",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1920,
+        "factory": "Cavco Lafayette",
+        "boxSize": "28x72",
+        "singleDouble": "Double",
+        "optionalBed": 1,
+        "possibleBeds": 5,
+        "inStock": "No",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-generation-28724i",
         "quote": 0
     },
     {
@@ -1998,7 +2012,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-beam-house-edge-32603x",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-beam-house-32603x",
         "quote": 0
     },
     {
@@ -2012,7 +2026,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-stratos-28643b",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-stratos-28643b-fw",
         "quote": 0
     },
     {
@@ -2026,21 +2040,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-warrior-edge-32563f",
-        "quote": 0
-    },
-    {
-        "house": "Outback",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1625,
-        "factory": "Cavco Lafayette",
-        "boxSize": "28x66",
-        "singleDouble": "Double",
-        "optionalBed": 0,
-        "possibleBeds": 3,
-        "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-outback-28663p",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-warrior-32563f",
         "quote": 0
     },
     {
@@ -2068,7 +2068,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-elevation-32523d",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-elevation-32523d-fi",
         "quote": 0
     },
     {
@@ -2082,21 +2082,49 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-champ-28563t",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-champ-28563t-fw",
+        "quote": 0
+    },
+    {
+        "house": "Inspiration",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1493,
+        "factory": "Cavco Lafayette",
+        "boxSize": "28x56",
+        "singleDouble": "Double",
+        "optionalBed": 0,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-inspiration-28563i",
+        "quote": 0
+    },
+    {
+        "house": "Axis",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1410,
+        "factory": "Cavco Lafayette",
+        "boxSize": "32x56",
+        "singleDouble": "Double",
+        "optionalBed": 1,
+        "possibleBeds": 4,
+        "inStock": "No",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-axis-32563n",
         "quote": 0
     },
     {
         "house": "Hemos",
-        "beds": 4,
+        "beds": 3,
         "baths": 2,
         "sqft": 1430,
         "factory": "Cavco Lafayette",
         "boxSize": "28x52",
         "singleDouble": "Double",
-        "optionalBed": 0,
+        "optionalBed": 1,
         "possibleBeds": 4,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-hemos-28524b",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-hemos-28524b-fw",
         "quote": 0
     },
     {
@@ -2110,7 +2138,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "Yes",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-bella-28483h",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-bella-28483h-fw",
         "quote": 0
     },
     {
@@ -2124,7 +2152,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-uproar-28483u",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-uproar-28483u-fw",
         "quote": 0
     },
     {
@@ -2138,7 +2166,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-pioneer-edge-16763k",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-pioneer-16763k-fi",
         "quote": 0
     },
     {
@@ -2152,7 +2180,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-wildcat-16763d",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-wildcat-16763d-fw",
         "quote": 0
     },
     {
@@ -2166,35 +2194,35 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-escape-28443b",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-escape-28443b-fw",
         "quote": 0
     },
     {
-        "house": "Express",
+        "house": "Imagination",
         "beds": 3,
         "baths": 2,
-        "sqft": 1173,
+        "sqft": 1280,
         "factory": "Cavco Lafayette",
-        "boxSize": "28x44",
+        "boxSize": "28x48",
         "singleDouble": "Double",
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-express-28443w",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-imagination-28483i",
         "quote": 0
     },
     {
         "house": "Twin Peaks",
         "beds": 3,
         "baths": 2,
-        "sqft": 1128,
+        "sqft": 1178,
         "factory": "Cavco Lafayette",
         "boxSize": "16x76",
         "singleDouble": "Single",
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-twin-peaks-16763p_",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-twin-peaks-16763e-fi",
         "quote": 0
     },
     {
@@ -2208,7 +2236,21 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-ascension-16723h",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-ascension-16723h-fw",
+        "quote": 0
+    },
+    {
+        "house": "Revelation",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1023,
+        "factory": "Cavco Lafayette",
+        "boxSize": "16x66",
+        "singleDouble": "Single",
+        "optionalBed": 0,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-revelation-16663i",
         "quote": 0
     },
     {
@@ -2222,7 +2264,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-ultra-16663u",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-ultra-16663u-fw",
         "quote": 0
     },
     {
@@ -2236,7 +2278,21 @@
         "optionalBed": 0,
         "possibleBeds": 2,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-deuce-16602d",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-deuce-16602d-fw",
+        "quote": 0
+    },
+    {
+        "house": "Baby K",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 868,
+        "factory": "Cavco Lafayette",
+        "boxSize": "16x56",
+        "singleDouble": "Single",
+        "optionalBed": 0,
+        "possibleBeds": 2,
+        "inStock": "No",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-baby-k-16562k",
         "quote": 0
     },
     {
@@ -2250,12 +2306,13 @@
         "optionalBed": 0,
         "possibleBeds": 2,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-urban-16462u",
+        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-urban-16462u-fw",
         "quote": 0
     }
 
 ]
     
+
 
 
 
