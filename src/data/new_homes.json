@@ -616,17 +616,17 @@
         "quote": 0
     },
     {
-        "house": "Everest",
-        "beds": 4,
+        "house": "Fiji",
+        "beds": 3,
         "baths": 2,
-        "sqft": 2432,
+        "sqft": 1680,
         "factory": "Epic Adventure",
-        "boxSize": "32x76",
+        "boxSize": "28x60",
         "singleDouble": "Double",
-        "optionalBed": 0,
+        "optionalBed": 1,
         "possibleBeds": 4,
         "inStock": "No",
-        "link": "https://claytonepicadventure.com/models/43cea32764ah/",
+        "link": "https://claytonepicadventure.com/models/43cea28603ah/",
         "quote": 0
     },
     {
@@ -669,6 +669,20 @@
         "possibleBeds": 3,
         "inStock": "No",
         "link": "https://claytonepicjourney.com/models/43cej16723ah/",
+        "quote": 0
+    },
+    {
+        "house": "Hudson",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1140,
+        "factory": "Epic Journey",
+        "boxSize": "16x76",
+        "singleDouble": "Single",
+        "optionalBed": 0,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://claytonepicjourney.com/models/43cej16763ah/",
         "quote": 0
     },
     {
@@ -2438,5 +2452,6 @@
 
 ]
     
+
 
 
