@@ -350,17 +350,17 @@
         "quote": 0
     },
     {
-        "house": "Balance",
+        "house": "Festival",
         "beds": 3,
         "baths": 2,
-        "sqft": 1330,
+        "sqft": 1279,
         "factory": "Bonham",
         "boxSize": "18x76",
         "singleDouble": "Single",
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonmiyo.com/models/35myo18763ah/",
+        "link": "https://claytonmiyo.com/models/35myo18763ch/",
         "quote": 0
     },
     {
@@ -385,7 +385,7 @@
         "factory": "Bonham",
         "boxSize": "18x80",
         "singleDouble": "Single",
-        "optionalBed": 0,
+        "optionalBed": 1,
         "possibleBeds": 4,
         "inStock": "No",
         "link": "https://claytonmiyo.com/models/35myo18803fh/",
@@ -2438,4 +2438,5 @@
 
 ]
     
+
 
