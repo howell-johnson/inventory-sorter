@@ -1,174 +1,174 @@
 [
     {
-        "house": "Bliss",
+        "house": "Elm",
         "beds": 2,
         "baths": 1,
-        "sqft": 765,
-        "factory": "Tru",
+        "sqft": 737,
+        "factory": "Tru Origin",
         "boxSize": "14x56",
         "singleDouble": "Single",
         "optionalBed": 0,
         "possibleBeds": 2,
         "inStock": "No",
-        "link": "https://owntru.com/models/TRS14562AH",
+        "link": "https://owntru.com/models/trt14562eh/",
         "quote": 0
     },
     {
-        "house": "Delight",
+        "house": "Dogwood",
         "beds": 2,
         "baths": 2,
-        "sqft": 820,
-        "factory": "Tru",
+        "sqft": 790,
+        "factory": "Tru Origin",
         "boxSize": "14x60",
         "singleDouble": "Single",
         "optionalBed": 0,
         "possibleBeds": 2,
         "inStock": "Yes",
-        "link": "https://owntru.com/models/TRS14602AH/",
+        "link": "https://owntru.com/models/trt14602dh/",
         "quote": 0
     },
     {
-        "house": "Elation",
+        "house": "Hickory",
         "beds": 3,
         "baths": 2,
-        "sqft": 902,
-        "factory": "Tru",
+        "sqft": 869,
+        "factory": "Tru Origin",
         "boxSize": "14x66",
         "singleDouble": "Single",
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://owntru.com/models/TRS14663AH/",
+        "link": "https://owntru.com/models/trt14663hh/",
         "quote": 0
     },
     {
-        "house": "Glory",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1038,
-        "factory": "Tru",
-        "boxSize": "14x76",
-        "singleDouble": "Single",
-        "optionalBed": 0,
-        "possibleBeds": 3,
-        "inStock": "No",
-        "link": "https://owntru.com/models/TRS14763BH/",
-        "quote": 0
-    },
-    {
-        "house": "Grand",
+        "house": "Cypress",
         "beds": 4,
         "baths": 2,
-        "sqft": 1038,
-        "factory": "Tru",
+        "sqft": 1001,
+        "factory": "Tru Origin",
         "boxSize": "14x76",
         "singleDouble": "Single",
         "optionalBed": 0,
         "possibleBeds": 4,
         "inStock": "No",
-        "link": "https://owntru.com/models/TRS14764AH/",
+        "link": "https://owntru.com/models/trt14764ch/",
         "quote": 0
     },
     {
-        "house": "Sensation",
+        "house": "Magnolia",
         "beds": 3,
         "baths": 2,
-        "sqft": 1140,
-        "boxSize": "16x76",
-        "factory": "Tru",
+        "sqft": 1001,
+        "factory": "Tru Origin",
+        "boxSize": "14x76",
         "singleDouble": "Single",
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://owntru.com/models/TRS16763EH/",
+        "link": "https://owntru.com/models/trt14763mh/",
         "quote": 0
     },
     {
-        "house": "Splendor",
+        "house": "Aspen",
         "beds": 3,
         "baths": 2,
         "sqft": 1140,
-        "factory": "Tru",
+        "boxSize": "16x76",
+        "factory": "Tru Origin",
+        "singleDouble": "Single",
+        "optionalBed": 0,
+        "possibleBeds": 4,
+        "inStock": "No",
+        "link": "https://owntru.com/models/trt16763ah/",
+        "quote": 0
+    },
+    {
+        "house": "Birch",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1140,
+        "factory": "Tru Origin",
         "boxSize": "16x76",
         "singleDouble": "Single",
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://owntru.com/models/TRS16763ZH/",
+        "link": "https://owntru.com/models/trt16763bh/",
         "quote": 0
     },
     {
-        "house": "Satisfaction",
+        "house": "Maple",
         "beds": 3,
         "baths": 2,
         "sqft": 1264,
-        "factory": "Tru",
+        "factory": "Tru Origin",
         "boxSize": "28x48",
         "singleDouble": "Double",
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://owntru.com/models/TRU28483RH/",
+        "link": "https://owntru.com/models/trt28483mh/",
         "quote": 0
     },
     {
-        "house": "Thrill",
+        "house": "Spruce",
         "beds": 3,
         "baths": 2,
         "sqft": 1475,
-        "factory": "Tru",
+        "factory": "Tru Origin",
         "boxSize": "28x56",
         "singleDouble": "Double",
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://owntru.com/models/TRU28563RH/",
+        "link": "https://owntru.com/models/trt28563sh/",
         "quote": 0
     },
     {
-        "house": "Marvel 4",
+        "house": "Oak",
         "beds": 4,
         "baths": 2,
         "sqft": 1475,
-        "factory": "Tru",
+        "factory": "Tru Origin",
         "boxSize": "28x56",
         "singleDouble": "Double",
         "optionalBed": 0,
         "possibleBeds": 4,
         "inStock": "Yes",
-        "link": "https://owntru.com/models/TRU28564AH/",
+        "link": "https://owntru.com/models/trt28564ah/",
         "quote": 0
     },
     {
-        "house": "Marvelous 3",
+        "house": "Cedar",
         "beds": 3,
         "baths": 2,
         "sqft": 1475,
-        "factory": "Tru",
+        "factory": "Tru Origin",
         "boxSize": "28x56",
         "singleDouble": "Double",
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://owntru.com/models/TRU28563MH/",
+        "link": "https://owntru.com/models/trt28563ch/",
         "quote": 0
     },
     {
-        "house": "Pride",
+        "house": "Sycamore",
         "beds": 4,
         "baths": 2,
         "sqft": 1791,
-        "factory": "Tru",
+        "factory": "Tru Origin",
         "boxSize": "28x68",
         "singleDouble": "Double",
         "optionalBed": 0,
         "possibleBeds": 4,
         "inStock": "No",
-        "link": "https://owntru.com/models/TRU28684RH/",
+        "link": "https://owntru.com/models/trt28684sh/",
         "quote": 0
     },
     {
-        "house": "Triumph",
+        "house": "Redwood",
         "beds": 5,
         "baths": 3,
         "sqft": 2001,
@@ -178,7 +178,35 @@
         "optionalBed": 0,
         "possibleBeds": 5,
         "inStock": "No",
-        "link": "https://owntru.com/models/TRU28765AH/",
+        "link": "https://owntru.com/models/trt28765rh/",
+        "quote": 0
+    },
+    {
+        "house": "Buttercup",
+        "beds": 1,
+        "baths": 1,
+        "sqft": 408,
+        "factory": "Tru Mini",
+        "boxSize": "12x36",
+        "singleDouble": "Single",
+        "optionalBed": 0,
+        "possibleBeds": 1,
+        "inStock": "No",
+        "link": "https://owntru.com/models/trt12361ph/",
+        "quote": 0
+    },
+    {
+        "house": "Tulip",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 544,
+        "factory": "Tru Mini",
+        "boxSize": "12x48",
+        "singleDouble": "Single",
+        "optionalBed": 0,
+        "possibleBeds": 2,
+        "inStock": "No",
+        "link": "https://owntru.com/models/trt12482ph/",
         "quote": 0
     },
     {
@@ -742,6 +770,20 @@
         "quote": 0
     },
     {
+        "house": "Sevier",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2001,
+        "factory": "Epic Journey",
+        "boxSize": "28x76",
+        "singleDouble": "Double",
+        "optionalBed": 1,
+        "possibleBeds": 5,
+        "inStock": "No",
+        "link": "https://claytonepicjourney.com/models/43cej28764ah/",
+        "quote": 0
+    },
+    {
         "house": "Anniversary 60",
         "beds": 2,
         "baths": 2,
@@ -1123,14 +1165,28 @@
         "house": "Imagine",
         "beds": 1,
         "baths": 1,
-        "sqft": 535,
+        "sqft": 527,
         "factory": "Tempo Addison",
         "boxSize": "14x40",
         "singleDouble": "Single",
         "optionalBed": 0,
         "possibleBeds": 1,
         "inStock": "No",
-        "link": "https://claytonaddisontempo.com/models/44tem14401ah/",
+        "link": "https://claytonbuilttempo.com/models/44tpo14401ah/",
+        "quote": 0
+    },
+    {
+        "house": "Yesterday",
+        "beds": 1,
+        "baths": 1,
+        "sqft": 660,
+        "factory": "Tempo Athens",
+        "boxSize": "14x44",
+        "singleDouble": "Single",
+        "optionalBed": 0,
+        "possibleBeds": 1,
+        "inStock": "No",
+        "link": "https://claytonbuilttempo.com/models/52tpo16441ah/",
         "quote": 0
     },
     {
@@ -1138,27 +1194,111 @@
         "beds": 2,
         "baths": 2,
         "sqft": 900,
-        "factory": "Tempo Addison",
+        "factory": "Tempo Addison/Athens",
         "boxSize": "16x60",
         "singleDouble": "Single",
         "optionalBed": 0,
         "possibleBeds": 2,
         "inStock": "No",
-        "link": "https://claytonaddisontempo.com/models/44tem16602ah/",
+        "link": "https://claytonbuilttempo.com/models/44tpo16602ah/",
         "quote": 0
     },
     {
-        "house": "Walk the Line",
+        "house": "Still the One",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 840,
+        "factory": "Tempo Athens",
+        "boxSize": "16x56",
+        "singleDouble": "Single",
+        "optionalBed": 0,
+        "possibleBeds": 2,
+        "inStock": "No",
+        "link": "https://claytonbuilttempo.com/models/52tpo16562ah/",
+        "quote": 0
+    },
+    {
+        "house": "Rhythm Nation",
         "beds": 3,
         "baths": 2,
-        "sqft": 1080,
-        "factory": "Tempo Addison",
-        "boxSize": "16x72",
+        "sqft": 990,
+        "factory": "Tempo Athens",
+        "boxSize": "16x66",
         "singleDouble": "Single",
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonaddisontempo.com/models/44tem16723bh/",
+        "link": "https://claytonbuilttempo.com/models/52tpo16663ah/",
+        "quote": 0
+    },
+    {
+        "house": "Solsbury Hill",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1140,
+        "factory": "Tempo Athens",
+        "boxSize": "16x76",
+        "singleDouble": "Single",
+        "optionalBed": 0,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://claytonbuilttempo.com/models/52tmr16763ah/",
+        "quote": 0
+    },
+    {
+        "house": "Melody",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1159,
+        "factory": "Tempo Athens",
+        "boxSize": "28x44",
+        "singleDouble": "Double",
+        "optionalBed": 0,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://claytonbuilttempo.com/models/52tpo28443bh/",
+        "quote": 0
+    },
+    {
+        "house": "Aria",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1264,
+        "factory": "Tempo Athens",
+        "boxSize": "28x48",
+        "singleDouble": "Double",
+        "optionalBed": 0,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://claytonbuilttempo.com/models/52tpo28483bh/",
+        "quote": 0
+    },
+    {
+        "house": "Ballad",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1369,
+        "factory": "Tempo Athens",
+        "boxSize": "28x52",
+        "singleDouble": "Double",
+        "optionalBed": 0,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://claytonbuilttempo.com/models/52tpo28523bh/",
+        "quote": 0
+    },
+    {
+        "house": "Wonderful World",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1493,
+        "factory": "Tempo Athens",
+        "boxSize": "28x56",
+        "singleDouble": "Double",
+        "optionalBed": 0,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://claytonbuilttempo.com/models/52tmr28563bh/",
         "quote": 0
     },
     {
@@ -1172,35 +1312,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonaddisontempo.com/models/44tem28563ah/",
-        "quote": 0
-    },
-    {
-        "house": "Wonderful World",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1568,
-        "factory": "Tempo Addison",
-        "boxSize": "28x56",
-        "singleDouble": "Double",
-        "optionalBed": 0,
-        "possibleBeds": 3,
-        "inStock": "No",
-        "link": "https://claytonaddisontempo.com/models/44tmr28563bh/",
-        "quote": 0
-    },
-    {
-        "house": "Lean On Me",
-        "beds": 3,
-        "baths": 2,
-        "sqft": 1568,
-        "factory": "Tempo Addison",
-        "boxSize": "28x56",
-        "singleDouble": "Double",
-        "optionalBed": 0,
-        "possibleBeds": 3,
-        "inStock": "No",
-        "link": "https://claytonaddisontempo.com/models/44tmi28563bh/",
+        "link": "https://claytonbuilttempo.com/models/44tmr28563ah/",
         "quote": 0
     },
     {
@@ -1208,13 +1320,41 @@
         "beds": 4,
         "baths": 2,
         "sqft": 1580,
-        "factory": "Tempo Addison",
+        "factory": "Tempo Athens",
         "boxSize": "28x60",
         "singleDouble": "Double",
         "optionalBed": 0,
         "possibleBeds": 4,
-        "inStock": "Yes",
-        "link": "https://claytonaddisontempo.com/models/44tem28604ch/",
+        "inStock": "No",
+        "link": "https://claytonbuilttempo.com/models/52tmr28604ah/",
+        "quote": 0
+    },
+    {
+        "house": "Forte",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1580,
+        "factory": "Tempo Athens",
+        "boxSize": "28x60",
+        "singleDouble": "Double",
+        "optionalBed": 0,
+        "possibleBeds": 4,
+        "inStock": "No",
+        "link": "https://claytonbuilttempo.com/models/52tmr28604bh/",
+        "quote": 0
+    },
+    {
+        "house": "Limelight",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1680,
+        "factory": "Tempo Athens",
+        "boxSize": "32x56",
+        "singleDouble": "Double",
+        "optionalBed": 0,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://claytonbuilttempo.com/models/52tpo32563ah/",
         "quote": 0
     },
     {
@@ -1228,21 +1368,63 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonaddisontempo.com/models/44tem28663ah/",
+        "link": "https://claytonbuilttempo.com/models/44tpo28663ah/",
+        "quote": 0
+    },
+    {
+        "house": "Sequence",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1738,
+        "factory": "Tempo Athens",
+        "boxSize": "28x66",
+        "singleDouble": "Double",
+        "optionalBed": 1,
+        "possibleBeds": 4,
+        "inStock": "No",
+        "link": "https://claytonbuilttempo.com/models/52tpo28664ah/",
         "quote": 0
     },
     {
         "house": "Hey Jude",
-        "beds": 5,
+        "beds": 4,
         "baths": 2,
         "sqft": 1896,
-        "factory": "Tempo Addison",
+        "factory": "Tempo Addison/Athens",
         "boxSize": "28x72",
         "singleDouble": "Double",
-        "optionalBed": 0,
+        "optionalBed": 1,
         "possibleBeds": 5,
         "inStock": "No",
-        "link": "https://claytonaddisontempo.com/models/44tem28725ah/",
+        "link": "https://claytonbuilttempo.com/models/44tpo28724ah/",
+        "quote": 0
+    },
+    {
+        "house": "Octave",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1920,
+        "factory": "Tempo Athens",
+        "boxSize": "28x72",
+        "singleDouble": "Double",
+        "optionalBed": 1,
+        "possibleBeds": 5,
+        "inStock": "No",
+        "link": "https://claytonbuilttempo.com/models/52tpo28724bh/",
+        "quote": 0
+    },
+    {
+        "house": "Echo",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1920,
+        "factory": "Tempo Athens",
+        "boxSize": "28x76",
+        "singleDouble": "Double",
+        "optionalBed": 1,
+        "possibleBeds": 5,
+        "inStock": "No",
+        "link": "https://claytonbuilttempo.com/models/52tpo28764bh/",
         "quote": 0
     },
     {
@@ -1256,7 +1438,7 @@
         "optionalBed": 0,
         "possibleBeds": 2,
         "inStock": "No",
-        "link": "https://claytonnxt.com/models/52nxt16602bh/",
+        "link": "https://claytonbuiltnxt.com/models/52nxt16602bh/",
         "quote": 0
     },
     {
@@ -1270,7 +1452,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonnxt.com/models/52nxt16763dh/",
+        "link": "https://claytonbuiltnxt.com/models/52nxt16763dh/",
         "quote": 0
     },
     {
@@ -1284,7 +1466,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonnxt.com/models/52nxt28523ah/",
+        "link": "https://claytonbuiltnxt.com/models/52nxt28523ah/",
         "quote": 0
     },
     {
@@ -1298,7 +1480,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonnxt.com/models/52frm32483ah/",
+        "link": "https://claytonbuiltnxt.com/models/52frm32483ah/",
         "quote": 0
     },
     {
@@ -1312,7 +1494,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonnxt.com/models/52nxt28563ch/",
+        "link": "https://claytonbuiltnxt.com/models/52nxt28563ch/",
         "quote": 0
     },
     {
@@ -1326,7 +1508,7 @@
         "optionalBed": 1,
         "possibleBeds": 4,
         "inStock": "No",
-        "link": "https://claytonnxt.com/models/52nxt28603ah/",
+        "link": "https://claytonbuiltnxt.com/models/52nxt28603ah/",
         "quote": 0
     },
     {
@@ -1340,7 +1522,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonnxt.com/models/52frm28603ah/",
+        "link": "https://claytonbuiltnxt.com/models/52frm28603ah/",
         "quote": 0
     },
     {
@@ -1354,7 +1536,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonnxt.com/models/52nxt32563ah/",
+        "link": "https://claytonbuiltnxt.com/models/52nxt32563ah/",
         "quote": 0
     },
     {
@@ -1368,7 +1550,7 @@
         "optionalBed": 1,
         "possibleBeds": 4,
         "inStock": "No",
-        "link": "https://claytonnxt.com/models/52nxt28684ah/",
+        "link": "https://claytonbuiltnxt.com/models/52nxt28684ah/",
         "quote": 0
     },
     {
@@ -1382,7 +1564,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonnxt.com/models/52frm32603ah/",
+        "link": "https://claytonbuiltnxt.com/models/52frm32603ah/",
         "quote": 0
     },
     {
@@ -1396,7 +1578,7 @@
         "optionalBed": 1,
         "possibleBeds": 4,
         "inStock": "No",
-        "link": "https://claytonnxt.com/models/52nxt32603ah/",
+        "link": "https://claytonbuiltnxt.com/models/52nxt32603ah/",
         "quote": 0
     },
     {
@@ -1410,7 +1592,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonnxt.com/models/52frm28723ah/",
+        "link": "https://claytonbuiltnxt.com/models/52frm28723ah/",
         "quote": 0
     },
     {
@@ -1424,7 +1606,7 @@
         "optionalBed": 1,
         "possibleBeds": 5,
         "inStock": "No",
-        "link": "https://claytonnxt.com/models/52frm28724ah/",
+        "link": "https://claytonbuiltnxt.com/models/52frm28724ah/",
         "quote": 0
     },
     {
@@ -1438,7 +1620,7 @@
         "optionalBed": 1,
         "possibleBeds": 4,
         "inStock": "Yes",
-        "link": "https://claytonnxt.com/models/52nxt32684ah/",
+        "link": "https://claytonbuiltnxt.com/models/52nxt32684ah/",
         "quote": 0
     },
     {
@@ -1452,7 +1634,7 @@
         "optionalBed": 1,
         "possibleBeds": 5,
         "inStock": "No",
-        "link": "https://claytonnxt.com/models/52frm32724ah/",
+        "link": "https://claytonbuiltnxt.com/models/52frm32724ah/",
         "quote": 0
     },
     {
@@ -1466,7 +1648,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://claytonnxt.com/models/52frm32723ah/",
+        "link": "https://claytonbuiltnxt.com/models/52frm32723ah/",
         "quote": 0
     },
     {
@@ -1919,30 +2101,30 @@
     },
     {
         "house": "K2",
-        "beds": 4,
+        "beds": 3,
         "baths": 2,
-        "sqft": 2248,
+        "sqft": 2280,
         "factory": "Cavco Lafayette",
         "boxSize": "32x76",
         "singleDouble": "Double",
-        "optionalBed": 0,
+        "optionalBed": 1,
         "possibleBeds": 4,
-        "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-k2-32764p_",
+        "inStock": "Yes",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/search/us?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22",
         "quote": 0
     },
     {
-        "house": "X Model",
+        "house": "Ignition",
         "beds": 4,
-        "baths": 2,
-        "sqft": 2040,
+        "baths": 3,
+        "sqft": 2100,
         "factory": "Cavco Lafayette",
-        "boxSize": "32x68",
+        "boxSize": "32x70",
         "singleDouble": "Double",
-        "optionalBed": 0,
-        "possibleBeds": 4,
-        "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-x-model-32684x-fi",
+        "optionalBed": 1,
+        "possibleBeds": 5,
+        "inStock": "Yes",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-ignition-32704e?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22",
         "quote": 0
     },
     {
@@ -1970,7 +2152,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-big-beam-house-32663x-fi",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-big-beam-house-32663x-fi?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22",
         "quote": 0
     },
     {
@@ -1984,7 +2166,7 @@
         "optionalBed": 0,
         "possibleBeds": 4,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-excalibur-32644x-fi",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-excalibur-32644x-fi?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22",
         "quote": 0
     },
     {
@@ -1998,7 +2180,7 @@
         "optionalBed": 1,
         "possibleBeds": 5,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-generation-28724i",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-generation-28724i?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22",
         "quote": 0
     },
     {
@@ -2012,7 +2194,21 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-beam-house-32603x",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-beam-house-32603x?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22",
+        "quote": 0
+    },
+    {
+        "house": "Kodiak",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1919,
+        "factory": "Cavco Lafayette",
+        "boxSize": "28x72",
+        "singleDouble": "Double",
+        "optionalBed": 1,
+        "possibleBeds": 5,
+        "inStock": "No",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-kodiak-28724x?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22",
         "quote": 0
     },
     {
@@ -2026,7 +2222,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-stratos-28643b-fw",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-stratos-28643b-fw?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22",
         "quote": 0
     },
     {
@@ -2040,7 +2236,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-warrior-32563f",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-warrior-32563f?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22",
         "quote": 0
     },
     {
@@ -2054,7 +2250,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-atmos-28603n",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-atmos-28603n?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22",
         "quote": 0
     },
     {
@@ -2068,7 +2264,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-elevation-32523d-fi",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-elevation-32523d-fi?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22",
         "quote": 0
     },
     {
@@ -2082,7 +2278,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-champ-28563t-fw",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-champ-28563t-fw?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=2",
         "quote": 0
     },
     {
@@ -2096,7 +2292,21 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-inspiration-28563i",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-inspiration-28563i?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=2",
+        "quote": 0
+    },
+    {
+        "house": "Aura",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 1410,
+        "factory": "Cavco Lafayette",
+        "boxSize": "28x64",
+        "singleDouble": "Double",
+        "optionalBed": 0,
+        "possibleBeds": 4,
+        "inStock": "No",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-aura-28644n?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=2",
         "quote": 0
     },
     {
@@ -2110,7 +2320,7 @@
         "optionalBed": 1,
         "possibleBeds": 4,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-axis-32563n",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-axis-32563n?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=2",
         "quote": 0
     },
     {
@@ -2124,7 +2334,7 @@
         "optionalBed": 1,
         "possibleBeds": 4,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-hemos-28524b-fw",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-hemos-28524b-fw?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=2",
         "quote": 0
     },
     {
@@ -2138,7 +2348,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "Yes",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-bella-28483h-fw",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-bella-28483h-fw?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=2",
         "quote": 0
     },
     {
@@ -2152,7 +2362,35 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-uproar-28483u-fw",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-uproar-28483u-fw?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=2",
+        "quote": 0
+    },
+    {
+        "house": "Outlook",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1280,
+        "factory": "Cavco Lafayette",
+        "boxSize": "28x54",
+        "singleDouble": "Double",
+        "optionalBed": 1,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-outlook-28542f?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=2",
+        "quote": 0
+    },
+    {
+        "house": "Helix",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1178,
+        "factory": "Cavco Lafayette",
+        "boxSize": "16x76",
+        "singleDouble": "Single",
+        "optionalBed": 0,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-helix-16763n?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=2",
         "quote": 0
     },
     {
@@ -2166,7 +2404,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-pioneer-16763k-fi",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-pioneer-16763k-fi?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=2",
         "quote": 0
     },
     {
@@ -2180,7 +2418,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-wildcat-16763d-fw",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-wildcat-16763d-fw?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=3",
         "quote": 0
     },
     {
@@ -2194,7 +2432,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-escape-28443b-fw",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-escape-28443b-fw?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=3",
         "quote": 0
     },
     {
@@ -2208,7 +2446,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-imagination-28483i",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-imagination-28483i?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=2",
         "quote": 0
     },
     {
@@ -2222,21 +2460,21 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-twin-peaks-16763e-fi",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-twin-peaks-16763e-fi?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=2",
         "quote": 0
     },
     {
-        "house": "Ascension",
+        "house": "Exclamation",
         "beds": 3,
         "baths": 2,
-        "sqft": 1116,
+        "sqft": 1152,
         "factory": "Cavco Lafayette",
-        "boxSize": "16x72",
+        "boxSize": "16x76",
         "singleDouble": "Single",
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-ascension-16723h-fw",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-exclamation-16763i?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=3",
         "quote": 0
     },
     {
@@ -2250,7 +2488,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-revelation-16663i",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-revelation-16663i?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=3",
         "quote": 0
     },
     {
@@ -2264,7 +2502,7 @@
         "optionalBed": 0,
         "possibleBeds": 3,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-ultra-16663u-fw",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-ultra-16663u-fw?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=3",
         "quote": 0
     },
     {
@@ -2278,7 +2516,7 @@
         "optionalBed": 0,
         "possibleBeds": 2,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-deuce-16602d-fw",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-deuce-16602d-fw?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=3",
         "quote": 0
     },
     {
@@ -2292,7 +2530,7 @@
         "optionalBed": 0,
         "possibleBeds": 2,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-baby-k-16562k",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-baby-k-16562k?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=3k",
         "quote": 0
     },
     {
@@ -2306,7 +2544,7 @@
         "optionalBed": 0,
         "possibleBeds": 2,
         "inStock": "No",
-        "link": "https://www.fleetwoodhomes.com/building-center/lafayette/floorplans/553-urban-16462u-fw",
+        "link": "https://www.cavcohomes.com/building-center/lafayette/floorplans/553-urban-16462u-fw?locations=%5B100%5D&latitude=34.5269095&longitude=-93.0690934&name=%22Hot+Springs+National+Park%2C+AR%2C+USA%22&page=3",
         "quote": 0
     }
 
