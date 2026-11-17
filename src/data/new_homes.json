@@ -210,6 +210,20 @@
         "quote": 0
     },
     {
+        "house": "Foothills 76",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1190,
+        "factory": "Clayton Maynardville",
+        "boxSize": "16x76",
+        "singleDouble": "Single",
+        "optionalBed": 0,
+        "possibleBeds": 3,
+        "inStock": "No",
+        "link": "https://claytonmaynardville.com/models/22fth16763ah/",
+        "quote": 0
+    },
+    {
         "house": "Atlas",
         "beds": 2,
         "baths": 2,
